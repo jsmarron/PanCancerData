@@ -5,6 +5,6 @@ Data from Katie Hoadley, ???.
 
 Repository contains data (various formats), together with some simple analyses done in Matlab.
 
-Directories:
+## Directories:
 
-    OriginalData: files from Katie
+* OriginalData: files from Katie
